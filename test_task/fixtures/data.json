@@ -1,0 +1,18 @@
+[
+  {
+    "model": "test_task.product",
+    "pk": 1,
+    "fields": {
+      "name": "Product 1",
+      "price": 123
+    }
+  },
+  {
+    "model": "test_task.product",
+    "pk": 2,
+    "fields": {
+      "name": "Product 2",
+      "price": 456
+    }
+  }
+]
